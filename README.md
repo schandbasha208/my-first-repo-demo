@@ -1,1 +1,3 @@
-# my-first-repo-demo
+# my-first-repo-demoe 
+this example of problemsolving 
+author : basha
